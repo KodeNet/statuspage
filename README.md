@@ -1,8 +1,8 @@
 # Service Status Page
-Visit this site at https://variablenix.github.io/statuspage/
+Visit this site at https://kodenet.github.io/statuspage/
 
 ## Report issues
-https://github.com/variablenix/statuspage/issues
+https://github.com/KodeNet/statuspage/issues
 
 ### Labels
-https://github.com/variablenix/statuspage/labels
+https://github.com/KodeNet/statuspage/labels
