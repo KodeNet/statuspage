@@ -1,5 +1,5 @@
-# Service Status Page
-Visit this site at https://kodenet.github.io/statuspage/
+# System Status Page
+Visit the Status Page at https://status.koderoot.net
 
 ## Report issues
 https://github.com/KodeNet/statuspage/issues
